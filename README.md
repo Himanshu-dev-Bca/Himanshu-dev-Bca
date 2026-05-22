@@ -17,10 +17,8 @@ Currently working on real-world freelance projects while transitioning into cybe
 
 ## 🚀 Featured Project
 
-> ⚠️ (Update this once your project is complete)
-
 - 🏗️ Freelance Web Application (In Progress)
-- Built using: React, Node.js, MongoDB
+- Built using: React framework
 - Focus: Performance, scalability, and secure architecture
 
 ---
@@ -42,16 +40,15 @@ Currently exploring:
 
 Next targets:
 - TryHackMe / HackTheBox
-- OWASP Top 10 mastery
 
 ---
 
 ## ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Himanshu-dev-Bca&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-dev-Bca&layout=compact&theme=tokyonight" />
 </p>
 
 ---
