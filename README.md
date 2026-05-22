@@ -23,7 +23,7 @@ Currently working on real-world freelance projects while transitioning into cybe
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,php,python,cpp,c,git,bash&perline=6" />
@@ -40,16 +40,6 @@ Currently exploring:
 
 Next targets:
 - TryHackMe / HackTheBox
-
----
-
-## ⚡ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Himanshu-dev-Bca&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-dev-Bca&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
