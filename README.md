@@ -1,15 +1,65 @@
-# 💫 About Me:
-Hello everyone I am Himanshu Chand.<br>I am currently working on a freelance project for a company.<br>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Himanshu+Chand;Building+Secure+Web+Systems;Future+Cybersecurity+Engineer" />
+</div>
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Himanshu Chand) 
+## 🧠 About Me
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Himanshu-dev-bca&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Himanshu-dev-bca&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-dev-bca&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+I’m a developer focused on building and securing modern web applications.  
+Currently working on real-world freelance projects while transitioning into cybersecurity.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🔭 Working on: Freelance web project (production-level)
+- 🛡️ Learning: Web Security, Penetration Testing
+- ⚡ Goal: Become a Security-Focused Full Stack Engineer
+
+---
+
+## 🚀 Featured Project
+
+> ⚠️ (Update this once your project is complete)
+
+- 🏗️ Freelance Web Application (In Progress)
+- Built using: React, Node.js, MongoDB
+- Focus: Performance, scalability, and secure architecture
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,php,python,cpp,c,git,bash&perline=6" />
+</p>
+
+---
+
+## 🛡️ Cybersecurity Journey
+
+Currently exploring:
+- Web vulnerabilities (XSS, SQL Injection, Auth flaws)
+- Secure coding practices
+- Basic penetration testing
+
+Next targets:
+- TryHackMe / HackTheBox
+- OWASP Top 10 mastery
+
+---
+
+## ⚡ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/himanshu-chand-11b1ba2b8/"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
+  <a href="https://www.instagram.com/hchand_266?igsh=MXBnMzByNGp0c25teQ=="><img src="https://skillicons.dev/icons?i=instagram" width="50"/></a>
+  <a href="https://www.reddit.com/user/Smooth_Try_6115/?screen_view_count=1"><img src="https://skillicons.dev/icons?i=reddit" width="50"/></a>
+</p>
