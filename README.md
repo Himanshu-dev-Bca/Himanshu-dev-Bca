@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Himanshu+Chand;Building+Secure+Web+Systems;Future+Cybersecurity+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Himanshu+Chand;fixing+bugs+i+created+5+mins+ago" />
 </div>
 
 ---
