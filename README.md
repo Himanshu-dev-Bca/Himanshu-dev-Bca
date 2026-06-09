@@ -1,45 +1,32 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Himanshu+Chand;fixing+bugs+i+created+5+mins+ago" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Himanshu+Chand;BOOOOM!" />
 </div>
 
 ---
 
 ## 🧠 About Me
 
-I’m a developer focused on building and securing modern web applications.  
-Currently working on real-world freelance projects while transitioning into cybersecurity.
+I build stuff, break stuff, then fix it like nothing happened.  
 
-- 🔭 Working on: Freelance web project (production-level)
-- 🛡️ Learning: Web Security, Penetration Testing
-- ⚡ Goal: Become a Security-Focused Full Stack Engineer
+- 🔭 Working on: Real-world freelance projects  
+- ⚡ Focus: Clean UI, smooth UX, and code that actually works  
+- 🎯 Goal: Become a cracked full stack developer  
 
 ---
 
 ## 🚀 Featured Project
 
-- 🏗️ Freelance Web Application (In Progress)
-- Built using: React framework
-- Focus: Performance, scalability, and secure architecture
+- 🏗️ Freelance Web Application (In Progress)  
+- Built using: React  
+- Focus: Performance + clean design + no nonsense  
 
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,php,python,cpp,c,git,bash&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,cpp,git,bash&perline=6" />
 </p>
-
----
-
-## 🛡️ Cybersecurity Journey
-
-Currently exploring:
-- Web vulnerabilities (XSS, SQL Injection, Auth flaws)
-- Secure coding practices
-- Basic penetration testing
-
-Next targets:
-- TryHackMe / HackTheBox
 
 ---
 
