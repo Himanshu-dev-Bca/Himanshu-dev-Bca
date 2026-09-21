@@ -80,6 +80,39 @@ Responsive interfaces, performance, usability, maintainable code, and real-world
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Himanshu-dev-Bca&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-dev-Bca&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css" width="49%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Himanshu-dev-Bca&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="60%"/>
+
+</div>
+
+---
+
+## 🐍 Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Himanshu-dev-Bca/Himanshu-dev-Bca/output/github-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/Himanshu-dev-Bca/Himanshu-dev-Bca/output/github-snake.svg" alt="Snake animation"/>
+</picture>
+
+</div>
+
+---
+
 ## 🌐 Connect
 
 <div align="center">
