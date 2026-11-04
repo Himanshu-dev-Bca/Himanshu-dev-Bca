@@ -21,7 +21,7 @@
 
 ## ✨ A Little About My World
 
-<img src="assets/prompted.png" width="85%" alt="Personal showcase image"/>
+<img src="assets/mao.png" width="85%" alt="Personal showcase image"/>
 
 <br/>
 
